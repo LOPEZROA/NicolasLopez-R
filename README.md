@@ -36,7 +36,7 @@
 
 ---
 
-## 📂 Colección de Proyectos
+## 📂 Colección de Proyectos y Codigos
 
 | Proyecto | Temática | Librerías Clave |
 | :--- | :--- | :--- |
